@@ -4,7 +4,7 @@ import { LinkedIn, GitHub, Email, Call, Favorite } from "@material-ui/icons";
 export const Contact = () => {
   return (
     <div className="contact" id="contact">
-      <h3>GET IN TOUCH</h3>
+      <h1>GET IN TOUCH</h1>
       <div className="iconContainer">
         <div className="icon">
           <a
