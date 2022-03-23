@@ -1,0 +1,19 @@
+@import "../../global.scss";
+.about {
+  background-color: $mainColor;
+  color: white;
+
+  .wrapper {
+    width: 70%;
+    margin: auto;
+    h1 {
+      text-align: center;
+      margin-top: 10%;
+    }
+    h2 {
+      text-align: center;
+      line-height: 160%;
+      margin: 10px;
+    }
+  }
+}
